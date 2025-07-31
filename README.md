@@ -1,0 +1,2 @@
+# DiscordThemeAssets
+DiscordTheme
